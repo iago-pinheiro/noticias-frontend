@@ -1,5 +1,4 @@
-// Configure a URL do seu backend aqui
-const API_URL = "https://***seu-backend***.onrender.com";
+const API_URL = "https://noticias-backend-lpio.onrender.com";
 
 async function carregarNoticias() {
   const container = document.getElementById("noticias");
